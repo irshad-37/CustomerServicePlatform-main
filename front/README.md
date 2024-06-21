@@ -21,7 +21,7 @@ A React + Vite template powered by shadcn/ui.
 Make sure you have the following installed on your development machine:
 
 - Node.js (version 16 or above)
-- pnpm (package manager)
+- npm (package manager)
 
 ## 🚀 Getting Started
 
@@ -53,10 +53,10 @@ Follow these steps to get started with the react-vite-ui template:
 
 ## 📜 Available Scripts
 
-- pnpm dev - Starts the development server.
-- pnpm build - Builds the production-ready code.
-- pnpm lint - Runs ESLint to analyze and lint the code.
-- pnpm preview - Starts the Vite development server in preview mode.
+- npm dev - Starts the development server.
+- npm build - Builds the production-ready code.
+- npm lint - Runs ESLint to analyze and lint the code.
+- npm preview - Starts the Vite development server in preview mode.
 
 ## 📂 Project Structure
 
