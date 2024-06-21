@@ -42,13 +42,13 @@ Follow these steps to get started with the react-vite-ui template:
 3. Install the dependencies:
 
    ```bash
-   pnpm install
+   npm install
    ```
 
 4. Start the development server:
 
    ```bash
-   pnpm dev
+   npm dev
    ```
 
 ## 📜 Available Scripts
